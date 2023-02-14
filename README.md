@@ -25,4 +25,4 @@ If you are interested in importing your data according to BIDS standards, go che
 ## Contact
 david.wisniewski@ugent.be
 
-@Createdd by David Wisniewski
+@Created by David Wisniewski
