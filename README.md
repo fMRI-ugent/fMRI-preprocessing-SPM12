@@ -1,5 +1,6 @@
 # fMRI-preprocessing-SPM12
 This is a SPM12 batch script that runs a standard fMRI preprocessing pipeline on a BIDS formatted data-set.
+
 @Created by David Wisniewski
 
 ## Included preprocessing steps 
@@ -26,4 +27,3 @@ If you are interested in importing your data according to BIDS standards, go che
 ## Contact
 david.wisniewski@ugent.be
 
-@Created by David Wisniewski
